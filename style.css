@@ -1,0 +1,66 @@
+
+
+h1 {
+    text-align: center;
+
+    color: rgb(25, 0, 255);
+
+    text-decoration: underline rgb(83, 2, 83);
+    background-color:rgb(238, 82, 43);
+}
+
+img.Etherum {
+    
+    width: 100px;
+    height: 100x;
+
+}
+
+img.Bitcoin {
+
+    width: 100px;
+
+    height: 100px;
+
+}
+
+img.Litecoin {
+
+    width: 100px;
+
+    height: 100px;
+
+}
+
+div.bitcoin {
+
+    background-color:rgb(238, 82, 43);
+    text-align: right;
+}
+
+
+
+div.Etherum {
+
+    background-color:white;
+    text-align: center;
+
+}
+
+div.Litecoin {
+    background-color: rgb(238, 82, 43);
+    text-align: left;
+}
+div.fondo {
+
+    background-color:rgb(238, 82, 43);
+    text-align: right;
+}
+
+h5 {
+    text-align: center;
+
+    background-color:yellow; 
+
+    text-decoration: underline rgb(83, 2, 83);
+}

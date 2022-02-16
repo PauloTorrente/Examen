@@ -1,0 +1,23 @@
+
+
+h1 {
+    text-align: center;
+
+    color: rgb(25, 0, 255);
+
+    text-decoration: underline rgb(83, 2, 83);
+    background-color:rgb(238, 82, 43);
+}
+
+div.bitcoin {
+
+    background-color:rgb(238, 82, 43);
+
+}
+h5 {
+    text-align: center;
+
+    background-color:yellow; 
+
+    text-decoration: underline rgb(83, 2, 83);
+}
